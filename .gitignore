@@ -1,0 +1,11 @@
+logs/*
+!.gitkeep
+tmp
+.DS_Store
+.idea
+*.iml
+*.zip
+*.rar
+/local.properties
+/build
+/node_modules
