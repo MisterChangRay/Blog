@@ -11,4 +11,7 @@
 
 * [盘点8种CSS实现垂直居中水平居中的绝对定位居中技术](http://blog.csdn.net/freshlover/article/details/11579669)
 
+#### 高质量博主
+
+* [张云龙](https://github.com/fouber/blog)
 
