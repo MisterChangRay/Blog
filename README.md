@@ -12,6 +12,7 @@
 * [理解执行环境、作用域链和活动对象](http://www.cnblogs.com/amy-fox/p/5856771.html)
 * [CSS3的calc()使用,css的计算方法](http://www.w3cplus.com/css3/how-to-use-css3-calc-function.html)
 * [盘点8种CSS实现垂直居中水平居中的绝对定位居中技术](http://blog.csdn.net/freshlover/article/details/11579669)
+* [JavaScript 模块化历程](http://web.jobbole.com/83761/)
 
 #### 高质量博主
 
