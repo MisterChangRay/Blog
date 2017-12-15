@@ -8,6 +8,8 @@
 * [angular-ui-router汉化翻译](https://github.com/MisterChangRay/Blog/blob/master/angular-ui-router-zhCn/angular-ui-router.md)
 
 #### 扩展阅读
+
+* [js性能优化的小知识](https://www.cnblogs.com/liyunhua/p/4529086.html)
 * [深入理解javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
 * [理解执行环境、作用域链和活动对象](http://www.cnblogs.com/amy-fox/p/5856771.html)
 * [CSS3的calc()使用,css的计算方法](http://www.w3cplus.com/css3/how-to-use-css3-calc-function.html)
