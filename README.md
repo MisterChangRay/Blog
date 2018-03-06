@@ -16,6 +16,7 @@
 * [盘点8种CSS实现垂直居中水平居中的绝对定位居中技术](http://blog.csdn.net/freshlover/article/details/11579669)
 * [JavaScript 模块化历程](http://web.jobbole.com/83761/)
 * [Jquery 源码分析,一步一步带你解析Jquery, 非常棒的教程](https://github.com/songjinzhong/JQuerySource)
+* [聊聊前端面试的那些事](http://blog.51cto.com/liuzhiying/1933943)
 
 #### 高质量博主
 
