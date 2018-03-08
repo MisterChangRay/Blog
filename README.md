@@ -8,7 +8,8 @@
 * [angular-ui-router汉化翻译](https://github.com/MisterChangRay/Blog/blob/master/angular-ui-router-zhCn/angular-ui-router.md)
 
 #### 扩展阅读
-
+* [技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
+* [区块链(BlockChain)技术相关资料](https://github.com/chaozh/awesome-blockchain)
 * [js性能优化的小知识](https://www.cnblogs.com/liyunhua/p/4529086.html)
 * [深入理解javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
 * [理解执行环境、作用域链和活动对象](http://www.cnblogs.com/amy-fox/p/5856771.html)
