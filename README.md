@@ -8,6 +8,8 @@
 * [angular-ui-router汉化翻译](https://github.com/MisterChangRay/Blog/blob/master/angular-ui-router-zhCn/angular-ui-router.md)
 
 #### 扩展阅读
+
+* [MySQL使用方案](https://segmentfault.com/a/1190000002675986)
 * [技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
 * [区块链(BlockChain)技术相关资料](https://github.com/chaozh/awesome-blockchain)
 * [js性能优化的小知识](https://www.cnblogs.com/liyunhua/p/4529086.html)
