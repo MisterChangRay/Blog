@@ -7,11 +7,13 @@
 * [angular4入门教程](https://github.com/MisterChangRay/Blog/blob/master/learn-angular2/learn-angular2.md) 
 * [angular-ui-router汉化翻译](https://github.com/MisterChangRay/Blog/blob/master/angular-ui-router-zhCn/angular-ui-router.md)
 
-#### 扩展阅读
 
+#### 实践与操作[mysql]
 * [MySQL使用方案](https://segmentfault.com/a/1190000002675986)
-* [技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
-* [区块链(BlockChain)技术相关资料](https://github.com/chaozh/awesome-blockchain)
+* [知方可补不足~SQL中的count命令的一些优化措施（百万以上数据明显）](https://www.cnblogs.com/lori/archive/2013/09/12/3317511.html)
+
+
+#### 实践与操作[js]
 * [js性能优化的小知识](https://www.cnblogs.com/liyunhua/p/4529086.html)
 * [JS继承的实现方式](https://www.cnblogs.com/humin/p/4556820.html)
 * [深入理解javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
@@ -21,6 +23,12 @@
 * [JavaScript 模块化历程](http://web.jobbole.com/83761/)
 * [Jquery 源码分析,一步一步带你解析Jquery, 非常棒的教程](https://github.com/songjinzhong/JQuerySource)
 * [聊聊前端面试的那些事](http://blog.51cto.com/liuzhiying/1933943)
+
+
+#### 扩展阅读
+* [技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
+* [区块链(BlockChain)技术相关资料](https://github.com/chaozh/awesome-blockchain)
+
 
 #### 高质量博主
 
