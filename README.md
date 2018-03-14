@@ -11,6 +11,7 @@
 #### 实践与操作[mysql]
 * [MySQL使用方案](https://segmentfault.com/a/1190000002675986)
 * [MySQL 语句优化命令EXPLAIN详解](https://www.jianshu.com/p/ea3fc71fdc45)
+* [MySQL my.ini配置文件优化](https://www.cnblogs.com/fan-yuan/p/8036388.html)
 * [sql文件导入导出乱码解决](http://blog.csdn.net/baicp3/article/details/12874509)
 * [mysql导入大文件失败原因]( https://www.cnblogs.com/lihuajunztdh/archive/2012/11/19/2776966.html)
 * [mysql分页优化-百万级上效果明显](https://www.cnblogs.com/codeAB/p/6391607.html)
