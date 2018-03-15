@@ -9,7 +9,7 @@
 
 #### 实践与操作[java]
 * [Maven入门，读完这篇就够了](https://www.jianshu.com/p/41d07cf95482)
-
+* [使用Spring实现读写分离（ MySQL实现主从复制）](http://blog.csdn.net/jack85986370/article/details/51559232)
 
 #### 实践与操作[mysql]
 * [MySQL使用方案](https://segmentfault.com/a/1190000002675986)
@@ -20,6 +20,7 @@
 * [mysql导入大文件失败原因]( https://www.cnblogs.com/lihuajunztdh/archive/2012/11/19/2776966.html)
 * [mysql分页优化-百万级上效果明显](https://www.cnblogs.com/codeAB/p/6391607.html)
 * [知方可补不足~SQL中的count命令的一些优化措施（百万以上数据明显）](https://www.cnblogs.com/lori/archive/2013/09/12/3317511.html)
+
 
 
 #### 实践与操作[js]
