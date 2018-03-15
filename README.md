@@ -7,6 +7,9 @@
 * [angular4入门教程](https://github.com/MisterChangRay/Blog/blob/master/learn-angular2/learn-angular2.md) 
 * [angular-ui-router汉化翻译](https://github.com/MisterChangRay/Blog/blob/master/angular-ui-router-zhCn/angular-ui-router.md)
 
+#### 实践与操作[java]
+* [Maven入门，读完这篇就够了](https://www.jianshu.com/p/41d07cf95482)
+
 
 #### 实践与操作[mysql]
 * [MySQL使用方案](https://segmentfault.com/a/1190000002675986)
