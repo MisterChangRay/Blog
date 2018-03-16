@@ -1,7 +1,7 @@
 # Blog
 充当日常笔记或者个人博客吧
 
-#### 翻译与教程
+#### 翻译与教程[手写]
 
 * [前端开发语法规则](https://github.com/MisterChangRay/Blog/blob/master/article/front-end-encoding-style.md)
 * [angular4入门教程](https://github.com/MisterChangRay/Blog/blob/master/learn-angular2/learn-angular2.md) 
