@@ -6,6 +6,7 @@
 * [前端开发语法规则](https://github.com/MisterChangRay/Blog/blob/master/article/front-end-encoding-style.md)
 * [angular4入门教程](https://github.com/MisterChangRay/Blog/blob/master/learn-angular2/learn-angular2.md) 
 * [angular-ui-router汉化翻译](https://github.com/MisterChangRay/Blog/blob/master/angular-ui-router-zhCn/angular-ui-router.md)
+* [mysql主从配置与读写分离实践与思路](https://github.com/MisterChangRay/Blog/blob/master/mysql/mysql_master_slave.md)
 
 #### 实践与操作[java]
 * [Maven入门，读完这篇就够了](https://www.jianshu.com/p/41d07cf95482)
