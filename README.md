@@ -23,8 +23,6 @@
 * [mysql分页优化-百万级上效果明显](https://www.cnblogs.com/codeAB/p/6391607.html)
 * [知方可补不足~SQL中的count命令的一些优化措施（百万以上数据明显）](https://www.cnblogs.com/lori/archive/2013/09/12/3317511.html)
 
-
-
 #### 实践与操作[js]
 * [js性能优化的小知识](https://www.cnblogs.com/liyunhua/p/4529086.html)
 * [JS继承的实现方式](https://www.cnblogs.com/humin/p/4556820.html)
@@ -35,6 +33,10 @@
 * [JavaScript 模块化历程](http://web.jobbole.com/83761/)
 * [Jquery 源码分析,一步一步带你解析Jquery, 非常棒的教程](https://github.com/songjinzhong/JQuerySource)
 * [聊聊前端面试的那些事](http://blog.51cto.com/liuzhiying/1933943)
+
+#### 实践与操作[git]
+* [Linux安装Gitblit](http://blog.csdn.net/qian_feifei/article/details/75195011)
+* [Gitblit配置详情](https://www.cnblogs.com/xifenglou/p/6952604.html)
 
 
 #### 扩展阅读
