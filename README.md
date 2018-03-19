@@ -15,7 +15,7 @@
 * [使用Spring实现读写分离（ MySQL实现主从复制）](http://blog.csdn.net/jack85986370/article/details/51559232)
 * [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
 * [RESTful 良好的API设计风格](https://www.cnblogs.com/kuyuecs/p/5949075.html)
-
+* [跟着 Github 学习 Restful HTTP API 设计](http://blog.csdn.net/niubity/article/details/64438668)
 
 
 #### 实践与操作[mysql]
