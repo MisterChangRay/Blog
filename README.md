@@ -17,6 +17,8 @@
 * [RESTful 良好的API设计风格](https://www.cnblogs.com/kuyuecs/p/5949075.html)
 * [跟着 Github 学习 Restful HTTP API 设计](http://blog.csdn.net/niubity/article/details/64438668)
 * [RPC架构简单理解和实现](https://www.cnblogs.com/ChrisMurphy/p/6550184.html)
+* [Dubbo是什么？能做什么？](http://blog.csdn.net/houshaolin/article/details/76408399)
+
 
 
 
