@@ -59,6 +59,7 @@
 * [Linux系统查看日志信息总结](http://www.cnblogs.com/hunttown/p/5469910.html)
 * [Linux du命令详解](http://www.cnblogs.com/hunttown/p/5470576.html)
 * [Linux df命令详解](http://www.cnblogs.com/hunttown/p/5470554.html)
+* [Tomcat启动脚本](http://www.cnblogs.com/hunttown/p/5760667.html)
 
 
 
