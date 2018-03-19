@@ -53,6 +53,8 @@
 
 #### 实践与操作[linux]
 * [Linux chmod命令修改文件与文件夹权限命令代码](https://www.cnblogs.com/geekdc/p/5497919.html)
+* [Linux netstat命令详解](http://www.cnblogs.com/hunttown/p/5452250.html)
+
 
 
 #### 扩展阅读
