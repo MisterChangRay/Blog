@@ -56,6 +56,7 @@
 
 
 #### 扩展阅读
+* [Windows常用快捷键](http://www.cnblogs.com/hunttown/p/5452264.html)
 * [技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
 * [区块链(BlockChain)技术相关资料](https://github.com/chaozh/awesome-blockchain)
 
