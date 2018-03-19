@@ -55,11 +55,11 @@
 #### 实践与操作[linux]
 * [Linux chmod命令修改文件与文件夹权限命令代码](https://www.cnblogs.com/geekdc/p/5497919.html)
 * [Linux netstat命令详解](http://www.cnblogs.com/hunttown/p/5452250.html)
-* [Linux开机自启配置](http://www.cnblogs.com/hunttown/p/5452249.html)
-* [Linux PS命令详解](http://www.cnblogs.com/hunttown/p/5452253.html)
-* [Linux系统查看日志信息总结](http://www.cnblogs.com/hunttown/p/5469910.html)
-* [Linux du命令详解](http://www.cnblogs.com/hunttown/p/5470576.html)
-* [Linux df命令详解](http://www.cnblogs.com/hunttown/p/5470554.html)
+* [Linux 开机自启配置](http://www.cnblogs.com/hunttown/p/5452249.html)
+* [Linux 进程查看 PS命令详解](http://www.cnblogs.com/hunttown/p/5452253.html)
+* [Linux 系统查看 常用命令总结](http://www.cnblogs.com/hunttown/p/5469910.html)
+* [Linux 文件大小查看 du命令详解](http://www.cnblogs.com/hunttown/p/5470576.html)
+* [Linux 磁盘空间查看 df命令详解](http://www.cnblogs.com/hunttown/p/5470554.html)
 * [Tomcat启动脚本](http://www.cnblogs.com/hunttown/p/5760667.html)
 * [Linux下文件的打包、解压缩指令——tar，gzip，bzip2](https://www.cnblogs.com/yhjoker/p/7568680.html)
 
