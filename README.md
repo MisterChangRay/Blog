@@ -19,8 +19,7 @@
 * [RPC架构简单理解和实现](https://www.cnblogs.com/ChrisMurphy/p/6550184.html)
 * [java实现简单的rpc框架](https://www.cnblogs.com/codingexperience/p/5930752.html)
 * [Dubbo是什么？能做什么？](http://blog.csdn.net/houshaolin/article/details/76408399)
-
-
+* [Nginx配置文件详解](https://www.cnblogs.com/hunttown/p/5759959.html)
 
 
 
