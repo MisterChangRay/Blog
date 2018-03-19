@@ -9,7 +9,7 @@
 
 
 #### 实践与操作[java]
-* [java 编码规范](http://www.cnblogs.com/jifeng/p/4937634.html)
+* [java 编码规范](http://morningspace.51.net/resource/javacodeconv.html)
 * [ubuntu 安装jdk 的两种方式](https://www.cnblogs.com/a2211009/p/4265225.html)
 * [Maven入门，读完这篇就够了](https://www.jianshu.com/p/41d07cf95482)
 * [ MySQL主从复制原理](https://www.cnblogs.com/Aiapple/p/5792939.html)
