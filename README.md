@@ -65,5 +65,7 @@
 * [阮一峰](http://www.ruanyifeng.com/)
 * [张云龙](https://github.com/fouber/blog)
 * [大漠穷秋](https://github.com/damoqiongqiu)
+* [廖雪峰](https://www.liaoxuefeng.com/)
+
 
 
