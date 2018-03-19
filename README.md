@@ -13,7 +13,9 @@
 * [Maven入门，读完这篇就够了](https://www.jianshu.com/p/41d07cf95482)
 * [ MySQL主从复制原理](https://www.cnblogs.com/Aiapple/p/5792939.html)
 * [使用Spring实现读写分离（ MySQL实现主从复制）](http://blog.csdn.net/jack85986370/article/details/51559232)
+* [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
 * [RESTful 良好的API设计风格](https://www.cnblogs.com/kuyuecs/p/5949075.html)
+
 
 
 #### 实践与操作[mysql]
@@ -54,7 +56,7 @@
 
 
 #### 高质量博主
-
+* [阮一峰](http://www.ruanyifeng.com/)
 * [张云龙](https://github.com/fouber/blog)
 * [大漠穷秋](https://github.com/damoqiongqiu)
 
