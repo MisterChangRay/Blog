@@ -21,7 +21,7 @@
 * [java实现简单的rpc框架](https://www.cnblogs.com/codingexperience/p/5930752.html)
 * [Dubbo是什么？能做什么？](http://blog.csdn.net/houshaolin/article/details/76408399)
 * [Nginx配置文件详解](https://www.cnblogs.com/hunttown/p/5759959.html)
-
+* [Linux 安装Jenkins](http://blog.csdn.net/heng615975867/article/details/52759779)
 
 
 #### 实践与操作[mysql]
@@ -62,6 +62,7 @@
 * [Linux 磁盘空间查看 df命令详解](http://www.cnblogs.com/hunttown/p/5470554.html)
 * [Tomcat启动脚本](http://www.cnblogs.com/hunttown/p/5760667.html)
 * [Linux下文件的打包、解压缩指令——tar，gzip，bzip2](https://www.cnblogs.com/yhjoker/p/7568680.html)
+
 
 
 
