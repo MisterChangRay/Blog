@@ -22,7 +22,8 @@
 * [Dubbo是什么？能做什么？](http://blog.csdn.net/houshaolin/article/details/76408399)
 * [Nginx配置文件详解](https://www.cnblogs.com/hunttown/p/5759959.html)
 * [Linux 安装Jenkins](http://blog.csdn.net/heng615975867/article/details/52759779)
-* [JAVA多线程详解](https://www.cnblogs.com/wxd0108/p/5479442.html)
+* [JAVA 多线程详解](https://www.cnblogs.com/wxd0108/p/5479442.html)
+* [java 多线程学习](https://www.cnblogs.com/GarfieldEr007/p/5746362.html)
 
 
 #### 实践与操作[mysql]
