@@ -24,6 +24,8 @@
 * [Linux 安装Jenkins](http://blog.csdn.net/heng615975867/article/details/52759779)
 * [JAVA 多线程详解](https://www.cnblogs.com/wxd0108/p/5479442.html)
 * [java 多线程学习](https://www.cnblogs.com/GarfieldEr007/p/5746362.html)
+* [五分钟告诉你为什么要有Spring AOP？](https://baijiahao.baidu.com/s?id=1595722145963593856&wfr=spider&for=pc)
+
 
 
 #### 实践与操作[mysql]
