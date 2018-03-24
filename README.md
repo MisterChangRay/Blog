@@ -24,7 +24,7 @@
 * [Linux 安装Jenkins](http://blog.csdn.net/heng615975867/article/details/52759779)
 * [JAVA 多线程详解](https://www.cnblogs.com/wxd0108/p/5479442.html)
 * [java 多线程学习](https://www.cnblogs.com/GarfieldEr007/p/5746362.html)
-
+* [How to create a Hello World with IntelliJ and Aspect J](http://tzachsolomon.blogspot.jp/2015/08/how-to-create-hello-world-with-intellij.html)
 
 #### 实践与操作[java-spring]
 * [关于 Spring AOP (AspectJ) 你该知晓的一切](https://blog.csdn.net/javazejian/article/details/56267036)
