@@ -33,6 +33,10 @@
 * [SpringAop与AspectJ的联系与区别](https://blog.csdn.net/qq_21050291/article/details/72523138)
 
 
+#### 实践与操作[redis]
+* [超强、超详细Redis入门教程](https://blog.csdn.net/liqingtx/article/details/60330555)
+
+
 #### 实践与操作[mysql]
 * [MySQL使用方案](https://segmentfault.com/a/1190000002675986)
 * [MySQL 语句优化命令EXPLAIN详解](https://www.jianshu.com/p/ea3fc71fdc45)
