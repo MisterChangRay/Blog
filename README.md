@@ -64,6 +64,7 @@
 * [CSS3的calc()使用,css的计算方法](http://www.w3cplus.com/css3/how-to-use-css3-calc-function.html)
 * [盘点8种CSS实现垂直居中水平居中的绝对定位居中技术](http://blog.csdn.net/freshlover/article/details/11579669)
 * [聊聊前端一些知识概念](http://blog.51cto.com/liuzhiying/1933943)
+* [angular2/angular4 ui框架选择](https://www.jianshu.com/p/13da1ec0c1e8)
 
 
 #### 实践与操作[git]
