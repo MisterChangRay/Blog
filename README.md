@@ -91,6 +91,7 @@
 * [技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
 * [区块链(BlockChain)技术相关资料](https://github.com/chaozh/awesome-blockchain)
 * [国内外部分开源软件镜像站和部分软件官方网站](http://www.cnblogs.com/hunttown/p/5453367.html)
+* [windows命令行常用命令](https://blog.csdn.net/CDersTeam/article/details/51346911)
 
 
 #### 高质量博主
