@@ -87,6 +87,9 @@
 * [Linux下文件的打包、解压缩指令——tar，gzip，bzip2](https://www.cnblogs.com/yhjoker/p/7568680.html)
 
 
+#### 实践与操作[数据加密]
+* [白话解释 对称加密算法 VS 非对称加密算法](https://segmentfault.com/a/1190000004461428)
+
 
 
 #### 扩展阅读
