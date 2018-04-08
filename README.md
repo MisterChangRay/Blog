@@ -91,6 +91,12 @@
 * [白话解释 对称加密算法 VS 非对称加密算法](https://segmentfault.com/a/1190000004461428)
 
 
+### 开源协议
+* [五种开源协议(GPL,LGPL,BSD,MIT,Apache)简介](https://blog.csdn.net/mic_hero/article/details/50662234)
+* [开源协议简介简介](http://www.ruanyifeng.com/blog/2017/10/open-source-license-tutorial.html)
+* [2分钟读懂开源协议](https://blog.csdn.net/linuxnews/article/details/55225755)
+
+
 
 #### 扩展阅读
 * [Windows常用快捷键](http://www.cnblogs.com/hunttown/p/5452264.html)
@@ -98,7 +104,7 @@
 * [区块链(BlockChain)技术相关资料](https://github.com/chaozh/awesome-blockchain)
 * [国内外部分开源软件镜像站和部分软件官方网站](http://www.cnblogs.com/hunttown/p/5453367.html)
 * [windows命令行常用命令](https://blog.csdn.net/CDersTeam/article/details/51346911)
-* [五种开源协议(GPL,LGPL,BSD,MIT,Apache)简介](https://blog.csdn.net/mic_hero/article/details/50662234)
+
 
 
 #### 高质量博主
