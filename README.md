@@ -104,7 +104,7 @@
 * [区块链(BlockChain)技术相关资料](https://github.com/chaozh/awesome-blockchain)
 * [国内外部分开源软件镜像站和部分软件官方网站](http://www.cnblogs.com/hunttown/p/5453367.html)
 * [windows命令行常用命令](https://blog.csdn.net/CDersTeam/article/details/51346911)
-* [发布项目到maven中央仓库](https://www.cnblogs.com/songjialin2016/p/8624019.html)\
+* [发布项目到maven中央仓库](https://www.cnblogs.com/songjialin2016/p/8624019.html)
 * [通用缩写表](https://blog.csdn.net/liu_yude/article/details/45317307)
 * [35种数据库解决方案，你知道哪些](https://blog.csdn.net/zxxssdsd/article/details/51627914)
 
