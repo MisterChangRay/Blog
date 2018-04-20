@@ -107,6 +107,7 @@
 * [发布项目到maven中央仓库](https://www.jianshu.com/p/5f6135e1925f)
 * [通用缩写表](https://blog.csdn.net/liu_yude/article/details/45317307)
 * [35种数据库解决方案，你知道哪些](https://blog.csdn.net/zxxssdsd/article/details/51627914)
+* [如何有效的报告bug](https://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html)
 
 
 #### 高质量博主
