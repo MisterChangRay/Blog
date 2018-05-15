@@ -37,6 +37,7 @@
 * [关于Spring IOC (DI-依赖注入)你需要知道的一切](https://blog.csdn.net/javazejian/article/details/54561302)
 * [AOP? Spring AOP?](https://baijiahao.baidu.com/s?id=1595722145963593856&wfr=spider&for=pc)
 * [SpringAop与AspectJ的联系与区别](https://blog.csdn.net/qq_21050291/article/details/72523138)
+* [Spring AOP无法拦截内部方法调用](https://www.jianshu.com/p/6534945eb3b5)
 
 
 #### 实践与操作[redis]
