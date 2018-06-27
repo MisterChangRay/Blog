@@ -32,7 +32,7 @@
 * [Java finally语句到底是在return之前还是之后执行？](http://www.cnblogs.com/lanxuezaipiao/p/3440471.html)
 * [Spring Boot使用Swagger2构建RESTful文档](https://www.jianshu.com/p/897d92ff783c)
 * [java 使用 JSONPath 解析 JSON 完整详解](http://www.ibloger.net/article/2329.html)
-
+* [Java DFA算法实现敏感词过滤](https://blog.csdn.net/a258831020/article/details/48826501)
 
 #### 实践与操作[java-spring]
 * [关于 Spring AOP (AspectJ) 你该知晓的一切](https://blog.csdn.net/javazejian/article/details/56267036)
