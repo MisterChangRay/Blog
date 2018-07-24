@@ -119,6 +119,10 @@
 * [如何有效的报告bug](https://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html)
 
 
+#### VPN
+* [Centos7.4使用SoftEther搭建VPN](https://blog.csdn.net/qq_39591494/article/details/78625394)
+
+
 #### 高质量博主
 * [阮一峰](http://www.ruanyifeng.com/)
 * [张云龙](https://github.com/fouber/blog)
