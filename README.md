@@ -33,6 +33,7 @@
 * [Spring Boot使用Swagger2构建RESTful文档](https://www.jianshu.com/p/897d92ff783c)
 * [java 使用 JSONPath 解析 JSON 完整详解](http://www.ibloger.net/article/2329.html)
 * [Java DFA算法实现敏感词过滤](https://blog.csdn.net/a258831020/article/details/48826501)
+* [什么是JWT（JSON WEB TOKEN）](https://www.cnblogs.com/yan7/p/7857833.html)
 
 #### 实践与操作[java-spring]
 * [关于 Spring AOP (AspectJ) 你该知晓的一切](https://blog.csdn.net/javazejian/article/details/56267036)
