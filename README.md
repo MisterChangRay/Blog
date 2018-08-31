@@ -118,7 +118,7 @@
 * [通用缩写表](https://blog.csdn.net/liu_yude/article/details/45317307)
 * [35种数据库解决方案，你知道哪些](https://blog.csdn.net/zxxssdsd/article/details/51627914)
 * [如何有效的报告bug](https://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html)
-
+* [ Google Protocol Buffer](https://www.ibm.com/developerworks/cn/linux/l-cn-gpb/index.html)
 
 #### VPN
 * [Centos7.4使用SoftEther搭建VPN](https://blog.csdn.net/qq_39591494/article/details/78625394)
