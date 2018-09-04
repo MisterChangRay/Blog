@@ -90,7 +90,7 @@
 * [Linux 磁盘空间查看 df命令详解](http://www.cnblogs.com/hunttown/p/5470554.html)
 * [Tomcat启动脚本](http://www.cnblogs.com/hunttown/p/5760667.html)
 * [Linux下文件的打包、解压缩指令——tar，gzip，bzip2](https://www.cnblogs.com/yhjoker/p/7568680.html)
-
+* [CentOS详解top命令各个数据的含义](https://www.cnblogs.com/ronli/p/centos-top.html)
 
 #### 实践与操作[PowerDesigner]
 * [PowerDesigner 中将Comment(注释)及Name(名称)内容互相COPY的VBS代码](https://blog.csdn.net/shuaihj/article/details/9162447)
