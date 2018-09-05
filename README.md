@@ -34,7 +34,15 @@
 * [java 使用 JSONPath 解析 JSON 完整详解](http://www.ibloger.net/article/2329.html)
 * [Java DFA算法实现敏感词过滤](https://blog.csdn.net/a258831020/article/details/48826501)
 * [什么是JWT（JSON WEB TOKEN）](https://www.cnblogs.com/yan7/p/7857833.html)
+
+
+#### 实践与操作[jvm调优]
 * [ Java Thread Dump 日志分析](https://www.cnblogs.com/jevo/articles/3055707.html)
+* [Java命令学习系列（1）：Jps](http://www.importnew.com/?p=18132&preview=true)
+* [Java命令学习系列（2）：Jstack](http://www.importnew.com/18176.html)
+* [Java命令学习系列（3）：Jmap](http://www.importnew.com/18196.html)
+* [JVM调优命令-jstat](https://www.cnblogs.com/myna/p/7567769.html)
+
 
 
 #### 实践与操作[java-spring]
