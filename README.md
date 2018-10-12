@@ -34,7 +34,7 @@
 * [java 使用 JSONPath 解析 JSON 完整详解](http://www.ibloger.net/article/2329.html)
 * [Java DFA算法实现敏感词过滤](https://blog.csdn.net/a258831020/article/details/48826501)
 * [什么是JWT（JSON WEB TOKEN）](https://www.cnblogs.com/yan7/p/7857833.html)
-
+* Log4j按级别输出日志到不同文件配置分析](https://blog.csdn.net/u010523770/article/details/53118684)
 
 #### 实践与操作[jvm调优]
 * [ Java Thread Dump 日志分析](https://www.cnblogs.com/jevo/articles/3055707.html)
