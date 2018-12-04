@@ -130,6 +130,7 @@
 * [35种数据库解决方案，你知道哪些](https://blog.csdn.net/zxxssdsd/article/details/51627914)
 * [如何有效的报告bug](https://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html)
 * [ Google Protocol Buffer](https://www.ibm.com/developerworks/cn/linux/l-cn-gpb/index.html)
+* [前缀、中缀、后缀表达式(逆波兰表达式)](https://www.cnblogs.com/chensongxian/p/7059802.html)
 
 #### VPN
 * [Centos7.4使用SoftEther搭建VPN](https://blog.csdn.net/qq_39591494/article/details/78625394)
