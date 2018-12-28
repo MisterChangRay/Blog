@@ -102,6 +102,8 @@
 * [Linux下文件的打包、解压缩指令——tar，gzip，bzip2](https://www.cnblogs.com/yhjoker/p/7568680.html)
 * [CentOS详解top命令各个数据的含义](https://www.cnblogs.com/ronli/p/centos-top.html)
 * [CPU状态信息us,sy,ni,id,wa,hi,si,st含义](https://my.oschina.net/u/3805464/blog/1812349)
+* [linux 技巧：使用 screen 管理你的远程会话](https://www.ibm.com/developerworks/cn/linux/l-cn-screen/)
+
 
 #### 实践与操作[PowerDesigner]
 * [PowerDesigner 中将Comment(注释)及Name(名称)内容互相COPY的VBS代码](https://blog.csdn.net/shuaihj/article/details/9162447)
