@@ -137,7 +137,17 @@
 
 #### VPN
 * [Centos7.4使用SoftEther搭建VPN](https://blog.csdn.net/qq_39591494/article/details/78625394)
+* [学点编码知识又不会死：Unicode的流言终结者和编码大揭秘](https://www.freebuf.com/articles/others-articles/25623.html)
+* [Unicode®字符百科,Unicode在线查询](https://unicode-table.com/cn/)
+* [Unicode 控制字符及其有关的双向算法](https://quietboy.net/posts/uniocde-%E6%8E%A7%E5%88%B6%E5%AD%97%E7%AC%A6)
+* [【字符编码】彻底理解字符编码](http://www.cnblogs.com/leesf456/p/5317574.html)
 
+#### 源码解析
+* [JDK 1.7 Integer.parseInt 源码解析](https://blog.csdn.net/Stu_WangHui/article/details/38564177)
+
+
+### 其他
+[报刊在线查询](https://haijiaoshi.com/archives/470)
 
 #### 高质量博主
 * [阮一峰](http://www.ruanyifeng.com/)
