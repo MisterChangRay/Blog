@@ -108,6 +108,9 @@
 #### 实践与操作[PowerDesigner]
 * [PowerDesigner 中将Comment(注释)及Name(名称)内容互相COPY的VBS代码](https://blog.csdn.net/shuaihj/article/details/9162447)
 
+#### 实践与操作[压力测试]
+*[《jmeter：菜鸟入门到进阶》](https://www.cnblogs.com/imyalost/p/7062784.html?utm_source=itdadao&utm_medium=referral)
+
 
 #### 实践与操作[数据加密]
 * [白话解释 对称加密算法 VS 非对称加密算法](https://segmentfault.com/a/1190000004461428)
