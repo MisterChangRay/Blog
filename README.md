@@ -144,7 +144,7 @@
 
 #### 源码解析
 * [JDK 1.7 Integer.parseInt 源码解析](https://blog.csdn.net/Stu_WangHui/article/details/38564177)
-
+* [TCP、消息分包和协议设计](https://www.cnblogs.com/ring1992/p/8085157.html)
 
 ### 其他
 [报刊在线查询](https://haijiaoshi.com/archives/470)
