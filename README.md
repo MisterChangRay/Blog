@@ -36,6 +36,7 @@
 * [什么是JWT（JSON WEB TOKEN）](https://www.cnblogs.com/yan7/p/7857833.html)
 * [Log4j按级别输出日志到不同文件配置分析](https://blog.csdn.net/u010523770/article/details/53118684)
 * [parseInt详解](http://wuchong.me/blog/2014/03/17/string-to-int/)
+* [JMM 详解](https://www.cnblogs.com/lewis0077/p/5143268.html)
 
 #### 实践与操作[jvm调优]
 * [ Java Thread Dump 日志分析](https://www.cnblogs.com/jevo/articles/3055707.html)
