@@ -7,7 +7,6 @@
 * [angular-ui-router汉化翻译](https://github.com/MisterChangRay/Blog/blob/master/angular-ui-router-zhCn/angular-ui-router.md)
 * [mysql主从配置与读写分离实践与思路](https://github.com/MisterChangRay/Blog/blob/master/mysql/mysql_master_slave.md)
 
-
 #### 实践与操作[java]
 * [java 编码规范](http://morningspace.51.net/resource/javacodeconv.html)
 * [Java GC 介绍](https://blog.csdn.net/d6619309/article/details/53358250)
@@ -39,6 +38,8 @@
 * [JMM 详解](https://www.cnblogs.com/lewis0077/p/5143268.html)
 * [全面理解Java内存模型(JMM)及volatile关键字](https://blog.csdn.net/javazejian/article/details/72772461)
 
+
+
 #### 实践与操作[jvm调优]
 * [ Java Thread Dump 日志分析](https://www.cnblogs.com/jevo/articles/3055707.html)
 * [Java命令学习系列（1）：Jps](http://www.importnew.com/?p=18132&preview=true)
@@ -69,6 +70,10 @@
 * [mysql导入大文件失败原因]( https://www.cnblogs.com/lihuajunztdh/archive/2012/11/19/2776966.html)
 * [mysql分页优化-百万级上效果明显](https://www.cnblogs.com/codeAB/p/6391607.html)
 * [知方可补不足~SQL中的count命令的一些优化措施（百万以上数据明显）](https://www.cnblogs.com/lori/archive/2013/09/12/3317511.html)
+
+
+#### 实践与操作[JMS]
+[ActiveMQ消息队列的使用及应用](https://www.cnblogs.com/zhuxiaojie/p/5564187.html#autoid-1-0-0)
 
 
 #### 实践与操作[js]
