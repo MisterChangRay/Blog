@@ -47,6 +47,9 @@
 * [Java命令学习系列（3）：Jmap](http://www.importnew.com/18196.html)
 * [JVM调优命令-jstat](https://www.cnblogs.com/myna/p/7567769.html)
 
+#### 实践与操作[分布式文件系统]
+* [分布式文件系统 - FastDFS 简单了解一下](https://www.cnblogs.com/mafly/p/fastdfs.html)
+* [用FastDFS一步步搭建文件管理系统](https://www.cnblogs.com/chiangchou/p/fastdfs.html#_label0_1)
 
 
 #### 实践与操作[java-spring]
