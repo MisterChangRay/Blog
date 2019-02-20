@@ -94,7 +94,7 @@
 * [angular2/angular4 ui框架选择](https://www.jianshu.com/p/13da1ec0c1e8)
 * [TypeScript迅速入门与应该知道](https://blog.csdn.net/mingyueyixi/article/details/72782026)
 * [前端开发指南](https://github.com/icepy/Front-End-Develop-Guide)
-
+* [一道经典JS考察题](https://juejin.im/post/5c6a0fa451882562851b3cdd)
 
 #### 实践与操作[git]
 * [Linux安装Gitblit](http://blog.csdn.net/qian_feifei/article/details/75195011)
