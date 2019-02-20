@@ -73,7 +73,7 @@
 * [mysql导入大文件失败原因]( https://www.cnblogs.com/lihuajunztdh/archive/2012/11/19/2776966.html)
 * [mysql分页优化-百万级上效果明显](https://www.cnblogs.com/codeAB/p/6391607.html)
 * [知方可补不足~SQL中的count命令的一些优化措施（百万以上数据明显）](https://www.cnblogs.com/lori/archive/2013/09/12/3317511.html)
-
+* [mysql常见优化细节](https://juejin.im/post/5c6b9c09f265da2d8a55a855)
 
 #### 实践与操作[JMS]
 [ActiveMQ消息队列的使用及应用](https://www.cnblogs.com/zhuxiaojie/p/5564187.html#autoid-1-0-0)
