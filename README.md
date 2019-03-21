@@ -100,6 +100,7 @@
 * [TypeScript迅速入门与应该知道](https://blog.csdn.net/mingyueyixi/article/details/72782026)
 * [前端开发指南](https://github.com/icepy/Front-End-Develop-Guide)
 * [一道经典JS考察题](https://juejin.im/post/5c6a0fa451882562851b3cdd)
+* [js位运算](https://juejin.im/post/5a98ea2f6fb9a028bb186f34)
 
 #### 实践与操作[git]
 * [Linux安装Gitblit](http://blog.csdn.net/qian_feifei/article/details/75195011)
