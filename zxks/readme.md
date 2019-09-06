@@ -14,13 +14,15 @@
 1. 打开调试窗口
 	1. 所有浏览器都支持按 F12 直接打开;如F12不能直接打开再使用2/3方法手动打开;
 	2. chrome打开方式为: 网页单击鼠标右键 -> 选择检查 -> 切换到 console 选项卡 -> 贴入代码
-	3. Firefox打开方式为: 网页单击鼠标右键 -> 选择查看元素 -> 切换到 控制台 选项卡 -> 贴入代码
+	3. Firefox打开方式为: 网页单击鼠标右键 -> 选择查看元素 -> 切换到 控制台 选项卡 -> 输入 allow pasting -> 贴入代码
 2. 贴入代码并回车
 3. 登陆
 
+
+
 ### 2.代码
 ``` javascript
-window.dv_get_order_number.style.display="none";window.dv_login_body.style.display="block"
+window.dv_get_order_number.style.display="none";window.dv_login_body.style.display="block";
 ```
 
 
