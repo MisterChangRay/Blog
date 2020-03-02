@@ -70,6 +70,11 @@
 * [超强、超详细Redis入门教程](https://blog.csdn.net/liqingtx/article/details/60330555)
 
 
+#### 实践与操作[网络与通讯]
+* [计算机中魔数magic number的概念](https://blog.csdn.net/wangjianno2/article/details/48859813?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
+* [一套典型的IM通信协议设计详解](http://www.52im.net/thread-283-1-1.html)
+* [移动端IM开发需要面对的技术问题](http://www.52im.net/thread-133-1-1.html)
+
 #### 实践与操作[mysql]
 * [MySQL使用方案](https://segmentfault.com/a/1190000002675986)
 * [MySQL 语句优化命令EXPLAIN详解](https://www.jianshu.com/p/ea3fc71fdc45)
