@@ -111,6 +111,7 @@
 #### 实践与操作[git]
 * [Linux安装Gitblit](http://blog.csdn.net/qian_feifei/article/details/75195011)
 * [Gitblit配置详情](https://www.cnblogs.com/xifenglou/p/6952604.html)
+* [git flow实践指南](https://blog.zz173.com/6)
 
 
 #### 实践与操作[linux]
