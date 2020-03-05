@@ -43,7 +43,7 @@
 * [JMM 详解](https://www.cnblogs.com/lewis0077/p/5143268.html)
 * [全面理解Java内存模型(JMM)及volatile关键字](https://blog.csdn.net/javazejian/article/details/72772461)
 * [如何选择使用字符串还是数字呢？](https://www.iteye.com/blog/yangshangchuan-2239571)
-
+* [javap命令--这一篇全了解](https://blog.csdn.net/w372426096/article/details/81664431)
 
 
 #### 实践与操作[jvm调优]
