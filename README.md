@@ -181,6 +181,5 @@
 * [张云龙](https://github.com/fouber/blog)
 * [大漠穷秋](https://github.com/damoqiongqiu)
 * [廖雪峰](https://www.liaoxuefeng.com/)
-
-
+* [EO_Admin 机器学习](https://www.cnblogs.com/geo-will/)
 
