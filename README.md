@@ -53,6 +53,8 @@
 * [Java命令学习系列（3）：Jmap](http://www.importnew.com/18196.html)
 * [JVM调优命令-jstat](https://www.cnblogs.com/myna/p/7567769.html)
 * [Java调优经验](https://www.rowkey.me/blog/2016/11/02/java-profile/)
+* [Java性能优化01-程序优化](https://zhouj000.github.io/2019/01/06/java-optimize-01/)
+
 
 #### 实践与操作[分布式文件系统]
 * [分布式文件系统 - FastDFS 简单了解一下](https://www.cnblogs.com/mafly/p/fastdfs.html)
