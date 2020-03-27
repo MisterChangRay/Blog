@@ -187,3 +187,4 @@
 * [EO_Admin 机器学习](https://www.cnblogs.com/geo-will/)
 * [美团技术沙龙](https://tech.meituan.com/)
 * [crossoverjie](https://crossoverjie.top/)
+* [阿里技术分享](http://jm.taobao.org/)
