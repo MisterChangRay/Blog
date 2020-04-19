@@ -164,6 +164,7 @@
 * [ Google Protocol Buffer](https://www.ibm.com/developerworks/cn/linux/l-cn-gpb/index.html)
 * [前缀、中缀、后缀表达式(逆波兰表达式)](https://www.cnblogs.com/chensongxian/p/7059802.html)
 * [字符编码详解](https://www.crifan.com/files/doc/docbook/char_encoding/release/html/char_encoding.html#ascii_ctrl_char)
+* [采用什么信息生产机器码最好](https://blog.csdn.net/qq_32403473/article/details/81505664)
 
 #### VPN
 * [Centos7.4使用SoftEther搭建VPN](https://blog.csdn.net/qq_39591494/article/details/78625394)
