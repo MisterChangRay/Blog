@@ -180,6 +180,7 @@
 ### 其他
 [报刊在线查询](https://haijiaoshi.com/archives/470)
 [站在CPU得角度;IO有多慢](https://juejin.im/post/5e81909be51d4546bb6f32ec)
+[一套不错的GWF白名单](https://raw.githubusercontent.com/breakwa11/gfw_whitelist/master/whitelist.pac)
 
 #### 高质量博主
 * [阮一峰](http://www.ruanyifeng.com/)
