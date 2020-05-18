@@ -111,10 +111,11 @@
 * [一道经典JS考察题](https://juejin.im/post/5c6a0fa451882562851b3cdd)
 * [js位运算](https://juejin.im/post/5a98ea2f6fb9a028bb186f34)
 
-#### 实践与操作[git]
+#### 实践与操作[git/maven]
 * [Linux安装Gitblit](http://blog.csdn.net/qian_feifei/article/details/75195011)
 * [Gitblit配置详情](https://www.cnblogs.com/xifenglou/p/6952604.html)
 * [git flow实践指南](https://blog.zz173.com/6)
+* [MAVEN配置与优先级](https://blog.csdn.net/xing930408/article/details/80899644)
 
 
 #### 实践与操作[linux]
