@@ -192,3 +192,4 @@
 * [美团技术沙龙](https://tech.meituan.com/)
 * [crossoverjie](https://crossoverjie.top/)
 * [阿里技术分享](http://jm.taobao.org/)
+* [田首支-再牛B的技术，也经不住你傻B式的坚持！](http://www.tianshouzhi.com/api/tutorials)
