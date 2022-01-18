@@ -139,8 +139,9 @@
 #### 实践与操作[压力测试]
 *[《jmeter：菜鸟入门到进阶》](https://www.cnblogs.com/imyalost/p/7062784.html?utm_source=itdadao&utm_medium=referral)
 
-*[centos或JAV的最大进程数量配置》](https://www.cnblogs.com/kongzhongqijing/articles/8520773.html)
-*[centos或JAV的最大进程数量配置2](https://mccxj.github.io/blog/20171230_os-thread-limit.html)
+*[centos或JAVA的最大进程数量配置](https://www.cnblogs.com/kongzhongqijing/articles/8520773.html)
+
+*[centos或JAVA的最大线程数量配置2](https://mccxj.github.io/blog/20171230_os-thread-limit.html)
 
 #### 实践与操作[数据加密]
 * [白话解释 对称加密算法 VS 非对称加密算法](https://segmentfault.com/a/1190000004461428)
